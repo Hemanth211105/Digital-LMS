@@ -113,7 +113,7 @@ export const DashboardLayout = ({ children }) => {
           <div className="h-16 flex items-center justify-between px-6 border-b border-slate-200 dark:border-slate-800">
             <Link to="/" className="flex items-center gap-2 text-primary-600 dark:text-primary-400 font-bold text-xl">
               <GraduationCap className="h-8 w-8" />
-              <span>Learnova</span>
+              <span>Digital LMS</span>
             </Link>
             <button className="md:hidden" onClick={() => setSidebarOpen(false)}>
               <X className="h-6 w-6" />

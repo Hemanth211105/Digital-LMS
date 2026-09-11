@@ -1,8 +1,8 @@
-# Learnova – Learning Management System
+# Digital – Learning Management System
 
 > Learn. Grow. Achieve.
 
-Learnova is a modern full-stack Learning Management System designed to provide a complete digital learning experience for students, teachers, and administrators.
+Digital - LMS is a modern full-stack Learning Management System designed to provide a complete digital learning experience for students, teachers, and administrators.
 
 The application supports role-based authentication, course management, lessons, assignments, quizzes, student progress tracking, and administrative management.
 
@@ -49,7 +49,7 @@ The application supports role-based authentication, course management, lessons, 
 
 ### 📚 Course Management
 
-Learnova supports multiple courses across different technologies and subjects.
+Digital LMS supports multiple courses across different technologies and subjects.
 
 Sample courses include:
 
@@ -92,7 +92,7 @@ Sample courses include:
 
 ## 👥 User Roles
 
-Learnova provides three different user roles.
+Digital LMS provides three different user roles.
 
 ### 👑 Admin
 
@@ -148,7 +148,7 @@ When the backend starts for the first time, the DatabaseSeeder automatically cre
 ## 📂 Project Structure
 
 ```text
-learnova-lms/
+digital-lms/
 │
 ├── backend/
 │   ├── pom.xml

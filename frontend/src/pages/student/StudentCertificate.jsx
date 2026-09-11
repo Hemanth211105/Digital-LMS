@@ -97,7 +97,7 @@ export const StudentCertificate = () => {
               <div className="p-3 bg-amber-50 dark:bg-amber-950/20 rounded-full border border-amber-200 dark:border-amber-900/30 text-amber-500">
                 <Award className="h-10 w-10 md:h-12 md:w-12 animate-pulse" />
               </div>
-              <span className="text-[11px] font-extrabold uppercase tracking-widest text-primary-600 dark:text-primary-400">LEARNOVA ACADEMY</span>
+              <span className="text-[11px] font-extrabold uppercase tracking-widest text-primary-600 dark:text-primary-400">DIGITAL LMS ACADEMY</span>
             </div>
 
             {/* Title Statement */}
