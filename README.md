@@ -1,3 +1,16 @@
+# Digital LMS
+
+A Digital Learning Management System built with React, Vite, Java, Spring Boot, and MySQL.
+
+## 🌐 Live Demo
+
+[Open Digital LMS](https://digital-lms.netlify.app/login)
+
+## 💻 GitHub Repository
+
+[View Source Code](https://github.com/Hemanth211105/Digital-LMS)
+
+
 # Digital – Learning Management System
 
 > Learn. Grow. Achieve.
