@@ -199,3 +199,30 @@ digital-lms/
 │       └── main.jsx
 │
 └── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure the following software is installed before running the project:
+
+- Java 21
+- Maven
+- MySQL
+- Node.js and npm
+- Git
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Hemanth211105/Digital-LMS.git
+cd Digital-LMS
+
+
+## 👥 Contributors
+
+- Hemanth211105 — Backend & Project Lead
+- Bharathkumar2436 — Full-Stack Development & Project Contributions
